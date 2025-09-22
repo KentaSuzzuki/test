@@ -8,10 +8,11 @@
     "react-scripts": "5.0.1",
     "@near-wallet-selector/core": "^8.2.1",
     "@near-wallet-selector/modal-ui": "^8.2.1",
-    "@near-wallet-selector/wallets": "^8.2.1",
+    "@near-wallet-selector/my-near-wallet": "^8.2.1",
+    "@near-wallet-selector/sender": "^8.2.1",
+    "@near-wallet-selector/ledger": "^8.2.1",
     "web3": "^4.3.0",
     "@walletconnect/web3-provider": "^1.8.0",
-    "walletconnect": "^1.8.0",
     "ethers": "^6.8.1",
     "styled-components": "^6.1.1"
   },
@@ -40,4 +41,3 @@
     ]
   }
 }
-
